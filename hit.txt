@@ -1,0 +1,417 @@
+0911082777:123456 | HIT = [Gói Sport = 67, Gói Youth League = 67] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0913300806:123456 | HIT = [Gói Max = 16] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0912298866:123456 | HIT = [Gói Max = 15] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0914643577:123456 | HIT = [Gói Max = 15] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0912386922:123456 | HIT = [Gói Kênh Cơ Bản = 87, Gói Tắt Quảng Cáo = 87, Gói Kênh Gia Đình = 87, Gói Phim bộ VIP = 87, Gói Kênh Quốc Tế = 87, Gói Đặc Sắc = 87] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0912638358:123456 | HIT = [Gói Max = 15] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0913581418:123456 | HIT = [Gói Max = 15] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0918866063:123456 | HIT = [Gói Kênh Cơ Bản = 101, Gói Kênh Gia Đình = 101] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0914502296:123456 | HIT = [Gói Kênh Cơ Bản = 102, Gói Kênh Gia Đình = 102] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0917213850:123456 | HIT = [Gói Kênh Cơ Bản = 165, Gói Kênh Gia Đình = 165] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0913652684:123456 | HIT = [Gói Max = 16] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0913196101:123456 | HIT = [Gói Max = 15] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0916989914:123456 | HIT = [Gói Max = 15] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0917441931:123456 | HIT = [Gói Kênh Cơ Bản = 166, Gói Kênh Gia Đình = 166] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0915440230:123456 | HIT = [Gói Max = 15] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0915336680:123456 | HIT = [Gói Max = 15] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0918272231:123456 | HIT = [Gói Kênh Cơ Bản = 235, Gói Kênh Gia Đình = 235] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0916212727:123456 | HIT = [Gói Max = 15] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0913444068:123456 | HIT = [Gói Kênh Cơ Bản = 27, Gói Kênh Gia Đình = 27] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0918998159:123456 | HIT = [Gói Kênh Cơ Bản = 55, Gói Kênh Gia Đình = 55] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0911525252:123456 | HIT = [Gói Max = 15] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0911943123:123456 | HIT = [Gói K+ = 15, Gói Max = 15] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0914387577:123456 | HIT = [Gói Kênh Cơ Bản = 13, Gói Kênh Gia Đình = 13] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0918445040:123456 | HIT = [Gói Max = 15] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0919891319:123456 | HIT = [Gói Kênh Cơ Bản = 36, Gói Kênh Gia Đình = 36] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0917162869:123456 | HIT = [Gói Kênh Cơ Bản = 57, Gói Kênh Gia Đình = 57] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0912124106:123456 | HIT = [Gói Kênh Cơ Bản = 121, Gói Kênh Gia Đình = 121] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0918037298:123456 | HIT = [Gói Kênh Cơ Bản = 17, Gói Kênh Gia Đình = 17] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0919050664:123456 | HIT = [Gói Max = 15] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0912495959:123456 | HIT = [Gói Max = 15] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0918754179:123456 | HIT = [Gói Kênh Cơ Bản = 167, Gói Kênh Gia Đình = 167] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0917419872:123456 | HIT = [Gói Max = 15] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0915662715:123456 | HIT = [Gói Max = 15] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0919415449:123456 | HIT = [Gói Kênh Cơ Bản = 2, Gói Kênh Gia Đình = 2] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0919881993:123456 | HIT = [Gói VIP = 16, Gói Kênh Cơ Bản = 46, Gói Tắt Quảng Cáo = 16, Gói Kênh Gia Đình = 46, Gói HBO GO = 16, Gói Phim bộ VIP = 46, Gói Kênh Quốc Tế = 46, Gói Sport = 46, Gói Đặc Sắc = 16, Gói Youth League = 46] | current_point = 78870 | current_rank = DIAMOND | Config By = Quang Hoàng
+0917246087:123456 | HIT = [Gói Kênh Cơ Bản = 167, Gói Kênh Gia Đình = 167] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0918640131:123456 | HIT = [Gói Kênh Cơ Bản = 136, Gói Kênh Gia Đình = 136] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0918603626:123456 | HIT = [Gói Kênh Cơ Bản = 44, Gói Kênh Gia Đình = 44] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0917496279:123456 | HIT = [Gói Max = 15] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0911622268:123456 | HIT = [Gói Max = 15] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0918038839:123456 | HIT = [Gói Max = 15] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0912957957:123456 | HIT = [Gói Kênh Cơ Bản = 48, Gói Kênh Gia Đình = 48] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0918259821:123456 | HIT = [Gói Max = 15] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0912290182:123456 | HIT = [Gói Max = 15] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0913601167:123456 | HIT = [Gói Max = 15] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0913563509:123456 | HIT = [Gói Kênh Cơ Bản = 47, Gói Tắt Quảng Cáo = 47, Gói Kênh Gia Đình = 47, Gói Phim bộ VIP = 47, Gói Kênh Quốc Tế = 47, Gói Đặc Sắc = 47] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0912779977:123456 | HIT = [Gói Kênh Cơ Bản = 143, Gói Kênh Gia Đình = 143] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0915662662:123456 | HIT = [Gói VIP = 12, Gói Kênh Cơ Bản = 346, Gói Tắt Quảng Cáo = 346, Gói Kênh Gia Đình = 346, Gói HBO GO = 12, Gói Phim bộ VIP = 12, Gói Kênh Quốc Tế = 12, Gói Sport = 12, Gói Đặc Sắc = 12, Gói Youth League = 12] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0913960324:123456 | HIT = [Gói Kênh Cơ Bản = 8, Gói Kênh Gia Đình = 8, Gói Phim bộ VIP = 8, Gói Kênh Quốc Tế = 8, Gói Sport = 8, Gói Youth League = 8] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0916427367:123456 | HIT = [Gói Max = 15] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0916022479:123456 | HIT = [Gói Kênh Cơ Bản = 115, Gói Kênh Gia Đình = 115] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0912225956:123456 | HIT = [Gói Max = 15] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0919671114:123456 | HIT = [Gói Kênh Cơ Bản = 141, Gói Kênh Gia Đình = 141] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0913566547:123456 | HIT = [Gói Max = 15] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0913840552:123456 | HIT = [Gói Kênh Cơ Bản = 135, Gói Kênh Gia Đình = 135] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0915303080:123456 | HIT = [Gói Kênh Cơ Bản = 167, Gói Kênh Gia Đình = 167] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0912314988:123456 | HIT = [Gói Kênh Cơ Bản = 30, Gói Kênh Gia Đình = 30, Gói Phim bộ VIP = 30, Gói Kênh Quốc Tế = 30, Gói Sport = 30, Gói Youth League = 30] | current_point = 1980 | current_rank = MEMBER | Config By = Quang Hoàng
+0913342567:123456 | HIT = [Gói Max = 15] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0915182054:123456 | HIT = [Gói Max = 15] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0919759924:123456 | HIT = [Gói Kênh Cơ Bản = 115, Gói Kênh Gia Đình = 115] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0919451328:123456 | HIT = [Gói Max = 16] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0911450198:123456 | HIT = [Gói Max = 15] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0919414345:123456 | HIT = [Gói Max = 6] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0914068920:123456 | HIT = [Gói Kênh Cơ Bản = 127, Gói Kênh Gia Đình = 127] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0919047693:123456 | HIT = [Gói Max = 15] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0918354669:123456 | HIT = [Gói Max = 15] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0918191971:123456 | HIT = [Gói Kênh Cơ Bản = 70, Gói Tắt Quảng Cáo = 70, Gói Kênh Gia Đình = 70, Gói Phim bộ VIP = 70, Gói Kênh Quốc Tế = 70, Gói Đặc Sắc = 70] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0918501226:123456 | HIT = [Gói Max = 15] | current_point = 73200 | current_rank = DIAMOND | Config By = Quang Hoàng
+0918779942:123456 | HIT = [Gói Max = 15] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0915527786:123456 | HIT = [Gói Max = 15] | current_point = 3000 | current_rank = SILVER | Config By = Quang Hoàng
+0911069494:123456 | HIT = [Gói Kênh Cơ Bản = 43, Gói Kênh Gia Đình = 43] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0916302791:123456 | HIT = [Gói Kênh Cơ Bản = 4, Gói Kênh Gia Đình = 4, Gói Phim bộ VIP = 4, Gói Kênh Quốc Tế = 4, Gói Sport = 4, Gói Youth League = 4] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0918979789:123456 | HIT = [Gói Max = 15] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0916796866:123456 | HIT = [Gói Kênh Cơ Bản = 53, Gói Tắt Quảng Cáo = 53, Gói Kênh Gia Đình = 53, Gói Phim bộ VIP = 53, Gói Kênh Quốc Tế = 53, Gói Đặc Sắc = 53] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0918451361:123456 | HIT = [Gói Kênh Cơ Bản = 78, Gói Kênh Gia Đình = 78] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0915283629:123456 | HIT = [Gói Max = 15] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0915401223:123456 | HIT = [Gói Kênh Cơ Bản = 30, Gói Kênh Gia Đình = 30] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0915145167:123456 | HIT = [Gói Kênh Cơ Bản = 38, Gói Kênh Gia Đình = 38] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0919162769:123456 | HIT = [Gói Max = 15] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0919245665:123456 | HIT = [Gói Max = 15] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0912606126:123456 | HIT = [Gói Kênh Cơ Bản = 148, Gói Kênh Gia Đình = 148] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0916699474:123456 | HIT = [Gói Kênh Cơ Bản = 72, Gói Kênh Gia Đình = 72] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0917029246:123456 | HIT = [Gói Kênh Cơ Bản = 26, Gói Kênh Gia Đình = 26, Gói Phim bộ VIP = 26, Gói Kênh Quốc Tế = 26, Gói Sport = 26, Gói Youth League = 26] | current_point = 1980 | current_rank = MEMBER | Config By = Quang Hoàng
+0919161578:123456 | HIT = [Gói Max = 15] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0911758586:123456 | HIT = [Gói Max = 15] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0913646420:123456 | HIT = [Gói Max = 16] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0919131933:123456 | HIT = [Gói Max = 15] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0912458394:123456 | HIT = [Gói Kênh Cơ Bản = 322, Gói Kênh Gia Đình = 322, Gói Phim bộ VIP = 322, Gói Kênh Quốc Tế = 322, Gói Sport = 322, Gói Youth League = 322] | current_point = 23760 | current_rank = GOLD | Config By = Quang Hoàng
+0917689668:123456 | HIT = [Gói Max = 15] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0915154232:123456 | HIT = [Gói Kênh Cơ Bản = 251, Gói Kênh Gia Đình = 251] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0917150891:123456 | HIT = [Gói K+ = 15, Gói Max = 15] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0916966916:123456 | HIT = [Gói Max = 15] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0913959544:123456 | HIT = [Gói Kênh Cơ Bản = 157, Gói Kênh Gia Đình = 157] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0916274096:123456 | HIT = [Gói Kênh Cơ Bản = 534, Gói Kênh Gia Đình = 534] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0916929188:123456 | HIT = [Gói Max = 15] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0917880607:123456 | HIT = [Gói Max = 15] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0918204035:123456 | HIT = [Gói Max = 15] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0911124073:123456 | HIT = [Gói Kênh Cơ Bản = 162, Gói Kênh Gia Đình = 162] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0913670748:123456 | HIT = [Gói Kênh Cơ Bản = 154, Gói Kênh Gia Đình = 154] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0915869387:123456 | HIT = [Gói Max = 15] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0911730940:123456 | HIT = [Gói Kênh Cơ Bản = 179, Gói Kênh Gia Đình = 179] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0912655883:123456 | HIT = [Gói Kênh Cơ Bản = 135, Gói Kênh Gia Đình = 135] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0915273279:123456 | HIT = [Gói Max = 15] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0918444384:123456 | HIT = [Gói Kênh Cơ Bản = 147, Gói Kênh Gia Đình = 147] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0912988658:123456 | HIT = [Gói Kênh Cơ Bản = 143, Gói Kênh Gia Đình = 143] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0912643097:123456 | HIT = [Gói VIP = 15] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0913010389:123456 | HIT = [Gói K+ = 15, Gói Max = 15] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0911737898:123456 | HIT = [Gói Max = 15] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0918256819:123456 | HIT = [Gói Kênh Cơ Bản = 122, Gói Kênh Gia Đình = 122] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0913141110:123456 | HIT = [Gói Kênh Cơ Bản = 81, Gói Tắt Quảng Cáo = 81, Gói Kênh Gia Đình = 81, Gói Phim bộ VIP = 81, Gói Kênh Quốc Tế = 81, Gói Đặc Sắc = 81] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0913268057:123456 | HIT = [Gói Max = 15] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0919026678:123456 | HIT = [Gói Kênh Cơ Bản = 161, Gói Kênh Gia Đình = 161] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0912688586:123456 | HIT = [Gói Kênh Cơ Bản = 310, Gói Kênh Gia Đình = 310] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0913948392:123456 | HIT = [Gói Kênh Cơ Bản = 53, Gói Tắt Quảng Cáo = 53, Gói Kênh Gia Đình = 53, Gói Phim bộ VIP = 53, Gói Kênh Quốc Tế = 53, Gói Đặc Sắc = 53] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0918264823:123456 | HIT = [Gói Kênh Cơ Bản = 7, Gói Tắt Quảng Cáo = 7, Gói Kênh Gia Đình = 7] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0917615825:123456 | HIT = [Gói Max = 15] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0911312509:123456 | HIT = [Gói Max = 15] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0915236134:123456 | HIT = [Gói Kênh Cơ Bản = 197, Gói Kênh Gia Đình = 197] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0913652684:123456 | HIT = [Gói Max = 16] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0915274862:123456 | HIT = [Gói Max = 15] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0911678063:123456 | HIT = [Gói Kênh Cơ Bản = 352, Gói Kênh Gia Đình = 352] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0912312452:123456 | HIT = [Gói Max = 15] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0917771448:123456 | HIT = [Gói Kênh Cơ Bản = 60, Gói Kênh Gia Đình = 60] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0913311459:123456 | HIT = [Gói Max = 15] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0913214125:123456 | HIT = [Gói Kênh Cơ Bản = 379, Gói Kênh Gia Đình = 379] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0919551787:123456 | HIT = [Gói Kênh Cơ Bản = 122, Gói Kênh Gia Đình = 122] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0912540430:123456 | HIT = [Gói Kênh Cơ Bản = 85, Gói Kênh Gia Đình = 85] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0911741970:123456 | HIT = [Gói Kênh Cơ Bản = 153, Gói Kênh Gia Đình = 153] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0913027935:123456 | HIT = [Gói Kênh Cơ Bản = 17, Gói Kênh Gia Đình = 17, Gói Phim bộ VIP = 17, Gói Kênh Quốc Tế = 17, Gói Sport = 17, Gói Youth League = 17] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0914416836:123456 | HIT = [Gói Kênh Cơ Bản = 54, Gói Kênh Gia Đình = 54] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0911328639:123456 | HIT = [Gói Kênh Cơ Bản = 119, Gói Kênh Gia Đình = 119] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0914515323:123456 | HIT = [Gói Max = 15] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0913183580:123456 | HIT = [Gói Max = 15] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0918340760:123456 | HIT = [Gói Kênh Cơ Bản = 9, Gói Kênh Gia Đình = 9] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0915140684:123456 | HIT = [Gói Max = 15] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0913037439:123456 | HIT = [Gói Max = 15] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0918627425:123456 | HIT = [Gói Max = 15] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0917475353:123456 | HIT = [Gói Kênh Cơ Bản = 46, Gói Kênh Gia Đình = 46] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0911248015:123456 | HIT = [Gói Max = 15] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0918498426:123456 | HIT = [Gói Kênh Cơ Bản = 166, Gói Kênh Gia Đình = 166] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0912772867:123456 | HIT = [Gói Kênh Cơ Bản = 15, Gói Kênh Gia Đình = 15] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0919422852:123456 | HIT = [Gói Phim 4K = 297, Gói Kênh Cơ Bản = 24, Gói Kênh Gia Đình = 24, Gói Phim bộ VIP = 24, Gói Kênh Quốc Tế = 24, Gói Sport = 24, Gói Youth League = 24] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0916378189:123456 | HIT = [Gói Kênh Cơ Bản = 116, Gói Kênh Gia Đình = 116] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0919126937:123456 | HIT = [Gói Kênh Cơ Bản = 55, Gói Tắt Quảng Cáo = 55, Gói Kênh Gia Đình = 55, Gói Phim bộ VIP = 55, Gói Kênh Quốc Tế = 55, Gói Đặc Sắc = 55] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0918501226:123456 | HIT = [Gói Max = 15] | current_point = 73200 | current_rank = DIAMOND | Config By = Quang Hoàng
+0912765839:123456 | HIT = [Gói Max = 15] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0917740724:123456 | HIT = [Gói Kênh Cơ Bản = 79, Gói Tắt Quảng Cáo = 79, Gói Kênh Gia Đình = 79, Gói Phim bộ VIP = 79, Gói Kênh Quốc Tế = 79, Gói Đặc Sắc = 79] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0913886060:123456 | HIT = [Gói Kênh Cơ Bản = 168, Gói Kênh Gia Đình = 168, Gói Phim bộ VIP = 168, Gói Kênh Quốc Tế = 168, Gói Sport = 168, Gói Youth League = 168] | current_point = 23760 | current_rank = GOLD | Config By = Quang Hoàng
+0918837497:123456 | HIT = [Gói Max = 15] | current_point = 3000 | current_rank = SILVER | Config By = Quang Hoàng
+0912638358:123456 | HIT = [Gói Max = 15] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0912560899:123456 | HIT = [Gói Max = 15] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0918619927:123456 | HIT = [Gói Max = 16] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0913191862:123456 | HIT = [Gói Kênh Cơ Bản = 12, Gói Kênh Gia Đình = 12] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0913771822:123456 | HIT = [Gói Kênh Cơ Bản = 59, Gói Tắt Quảng Cáo = 59, Gói Kênh Gia Đình = 59, Gói Phim bộ VIP = 59, Gói Kênh Quốc Tế = 59, Gói Đặc Sắc = 59] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0918711917:123456 | HIT = [Gói Kênh Cơ Bản = 166, Gói Kênh Gia Đình = 166] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0912998468:123456 | HIT = [Gói Kênh Cơ Bản = 82, Gói Kênh Gia Đình = 82] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0916851738:123456 | HIT = [Gói Kênh Cơ Bản = 172, Gói Kênh Gia Đình = 172] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0917049934:123456 | HIT = [Gói Max = 15] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0911943123:123456 | HIT = [Gói K+ = 15, Gói Max = 15] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0911576562:123456 | HIT = [Gói Max = 15] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0912744486:123456 | HIT = [Gói Max = 15] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0912757000:123456 | HIT = [Gói Kênh Cơ Bản = 76, Gói Kênh Gia Đình = 76] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0915686022:123456 | HIT = [Gói VIP = 15, Gói K+ = 15] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0916796779:123456 | HIT = [Gói Max = 15] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0917626868:123456 | HIT = [Gói Max = 15] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0912276611:123456 | HIT = [Gói Kênh Cơ Bản = 1, Gói Kênh Gia Đình = 1] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0914350554:123456 | HIT = [Gói Kênh Cơ Bản = 164, Gói Kênh Gia Đình = 164] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0914562270:123456 | HIT = [Gói Max = 15] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0913037267:123456 | HIT = [Gói VIP = 15, Gói K+ = 19] | current_point = 90750 | current_rank = DIAMOND | Config By = Quang Hoàng
+0915521222:123456 | HIT = [Gói Kênh Cơ Bản = 5, Gói Kênh Gia Đình = 5] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0918382425:123456 | HIT = [Gói Kênh Cơ Bản = 103, Gói Kênh Gia Đình = 103] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0917022727:123456 | HIT = [Gói Kênh Cơ Bản = 165, Gói Kênh Gia Đình = 165] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0913401819:123456 | HIT = [Gói Max = 15] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0918831588:123456 | HIT = [Gói Kênh Cơ Bản = 99, Gói Kênh Gia Đình = 99] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0914125508:123456 | HIT = [Gói Max = 15] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0915036513:123456 | HIT = [Gói Kênh Cơ Bản = 12, Gói Kênh Gia Đình = 12] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0912300529:123456 | HIT = [Gói Max = 15] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0917166817:123456 | HIT = [Gói Kênh Cơ Bản = 26, Gói Kênh Gia Đình = 26] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0916723713:123456 | HIT = [Gói Max = 15] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0916886063:123456 | HIT = [Gói Kênh Cơ Bản = 66, Gói Kênh Gia Đình = 66] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0914991369:123456 | HIT = [Gói Kênh Cơ Bản = 29, Gói Tắt Quảng Cáo = 29, Gói Kênh Gia Đình = 29, Gói Phim bộ VIP = 29, Gói Kênh Quốc Tế = 29, Gói Đặc Sắc = 29] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0919736164:123456 | HIT = [Gói Max = 15] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0918201228:123456 | HIT = [Gói Kênh Cơ Bản = 183, Gói Kênh Gia Đình = 183] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0912357232:123456 | HIT = [Gói Kênh Cơ Bản = 139, Gói Kênh Gia Đình = 139] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0919170127:123456 | HIT = [Gói Kênh Cơ Bản = 89, Gói Kênh Gia Đình = 89] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0919490939:123456 | HIT = [Gói Max = 15] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0918421552:123456 | HIT = [Gói Max = 15] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0914127558:123456 | HIT = [Gói Max = 15] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0914692855:123456 | HIT = [Gói Kênh Cơ Bản = 57, Gói Tắt Quảng Cáo = 57, Gói Kênh Gia Đình = 57, Gói Phim bộ VIP = 57, Gói Kênh Quốc Tế = 57, Gói Đặc Sắc = 57] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0917451975:123456 | HIT = [Gói Max = 15] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0914907955:123456 | HIT = [Gói Kênh Cơ Bản = 47, Gói Kênh Gia Đình = 47] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0915230392:123456 | HIT = [Gói Max = 15] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0915031594:123456 | HIT = [Gói Kênh Cơ Bản = 130, Gói Kênh Gia Đình = 130] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0917308368:123456 | HIT = [Gói Max = 15] | current_point = 2640 | current_rank = MEMBER | Config By = Quang Hoàng
+0918517390:123456 | HIT = [Gói Kênh Cơ Bản = 91, Gói Kênh Gia Đình = 91] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0914829412:123456 | HIT = [Gói Phim 4K = 48, Gói Kênh Cơ Bản = 122, Gói Tắt Quảng Cáo = 60, Gói Kênh Gia Đình = 122] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0915704679:123456 | HIT = [Gói Kênh Cơ Bản = 28, Gói Kênh Gia Đình = 28, Gói Phim bộ VIP = 28, Gói Kênh Quốc Tế = 28, Gói Sport = 28, Gói Youth League = 28] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0918492999:123456 | HIT = [Gói Kênh Cơ Bản = 113, Gói Kênh Gia Đình = 113, Gói Sport = 113, Gói Youth League = 113] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0917191677:123456 | HIT = [Gói Kênh Cơ Bản = 144, Gói Kênh Gia Đình = 144] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0915838686:123456 | HIT = [Gói Kênh Cơ Bản = 141, Gói Kênh Gia Đình = 141] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0916705555:123456 | HIT = [Gói Max = 15] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0915848797:123456 | HIT = [Gói Kênh Cơ Bản = 197, Gói Kênh Gia Đình = 197] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0913155590:123456 | HIT = [Gói Kênh Cơ Bản = 172, Gói Kênh Gia Đình = 172] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0913132010:123456 | HIT = [Gói Max = 15] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0915422573:123456 | HIT = [Gói Kênh Cơ Bản = 159, Gói Kênh Gia Đình = 159] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0913115444:123456 | HIT = [Gói Kênh Cơ Bản = 111, Gói Kênh Gia Đình = 111] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0918773963:123456 | HIT = [Gói Kênh Cơ Bản = 16, Gói Kênh Gia Đình = 16] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0917511901:123456 | HIT = [Gói Max = 15] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0918175270:123456 | HIT = [Gói Kênh Cơ Bản = 123, Gói Kênh Gia Đình = 123] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0918424092:123456 | HIT = [Gói Kênh Cơ Bản = 47, Gói Kênh Gia Đình = 47] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0919194937:123456 | HIT = [Gói Kênh Cơ Bản = 8, Gói Kênh Gia Đình = 8] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0917279820:123456 | HIT = [Gói Kênh Cơ Bản = 30, Gói Kênh Gia Đình = 30, Gói Phim bộ VIP = 30, Gói Kênh Quốc Tế = 30, Gói Sport = 30, Gói Youth League = 30] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0916342805:123456 | HIT = [Gói Max = 15] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0913277827:123456 | HIT = [Gói Kênh Cơ Bản = 85, Gói Tắt Quảng Cáo = 85, Gói Kênh Gia Đình = 85, Gói Phim bộ VIP = 85, Gói Kênh Quốc Tế = 85, Gói Đặc Sắc = 85] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0912585939:123456 | HIT = [Gói Kênh Cơ Bản = 41, Gói Kênh Gia Đình = 41] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0912741686:123456 | HIT = [Gói Max = 15] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0918498447:123456 | HIT = [Gói Kênh Cơ Bản = 139, Gói Kênh Gia Đình = 139] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0917675679:123456 | HIT = [Gói Max = 15] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0913724231:123456 | HIT = [Gói Kênh Cơ Bản = 166, Gói Kênh Gia Đình = 166] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0919393204:123456 | HIT = [Gói Max = 16] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0912954226:123456 | HIT = [Gói Max = 15] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0914130011:123456 | HIT = [Gói Kênh Cơ Bản = 130, Gói Kênh Gia Đình = 130] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0913923535:123456 | HIT = [Gói Max = 15] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0913238873:123456 | HIT = [Gói Kênh Cơ Bản = 160, Gói Kênh Gia Đình = 160] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0912281178:123456 | HIT = [Gói Kênh Cơ Bản = 101, Gói Kênh Gia Đình = 101] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0913338955:123456 | HIT = [Gói Kênh Cơ Bản = 33, Gói Kênh Gia Đình = 33] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0912636188:123456 | HIT = [Gói K+ = 15, Gói Max = 15] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0918076287:123456 | HIT = [Gói Kênh Cơ Bản = 87, Gói Tắt Quảng Cáo = 87, Gói Kênh Gia Đình = 87, Gói Phim bộ VIP = 87, Gói Kênh Quốc Tế = 87, Gói Đặc Sắc = 87] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0918204252:123456 | HIT = [Gói Max = 15] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0919724355:123456 | HIT = [Gói Max = 15] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0913090775:123456 | HIT = [Gói VIP = 16, Gói K+ = 16] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0914210009:123456 | HIT = [Gói Kênh Cơ Bản = 143, Gói Kênh Gia Đình = 143] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0918890332:123456 | HIT = [Gói Max = 15] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0919079786:123456 | HIT = [Gói Max = 15] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0918136618:123456 | HIT = [Gói Kênh Cơ Bản = 54, Gói Kênh Gia Đình = 54] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0914676787:123456 | HIT = [Gói Kênh Cơ Bản = 153, Gói Kênh Gia Đình = 153] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0919518187:123456 | HIT = [Gói Kênh Cơ Bản = 22, Gói Kênh Gia Đình = 22] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0918852154:123456 | HIT = [Gói Kênh Cơ Bản = 90, Gói Kênh Gia Đình = 90] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0911221443:123456 | HIT = [Gói Max = 15] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0912062949:123456 | HIT = [Gói Kênh Cơ Bản = 3, Gói Kênh Gia Đình = 3] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0916113416:123456 | HIT = [Gói VIP = 14, Gói Kênh Cơ Bản = 14, Gói Tắt Quảng Cáo = 14, Gói Kênh Gia Đình = 14, Gói HBO GO = 14, Gói Phim bộ VIP = 14, Gói Kênh Quốc Tế = 14, Gói Sport = 14, Gói Đặc Sắc = 14, Gói Youth League = 14] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0911622255:123456 | HIT = [Gói Max = 15] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0913462099:123456 | HIT = [Gói Max = 15] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0916597319:123456 | HIT = [Gói Kênh Cơ Bản = 109, Gói Kênh Gia Đình = 109] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0917515218:123456 | HIT = [Gói Max = 16] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0919289898:123456 | HIT = [Gói Kênh Cơ Bản = 166, Gói Kênh Gia Đình = 166] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0912946464:123456 | HIT = [Gói Kênh Cơ Bản = 88, Gói Kênh Gia Đình = 88] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0914977826:123456 | HIT = [Gói Max = 15] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0918445040:123456 | HIT = [Gói Max = 15] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0917204888:123456 | HIT = [Gói Kênh Cơ Bản = 240, Gói Kênh Gia Đình = 240] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0917319791:123456 | HIT = [Gói Max = 16] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0917031728:123456 | HIT = [Gói Kênh Cơ Bản = 91, Gói Kênh Gia Đình = 91] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0919455169:123456 | HIT = [Gói Max = 15] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0918343495:123456 | HIT = [Gói Max = 15] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0915839987:123456 | HIT = [Gói Max = 15] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0918752216:123456 | HIT = [Gói Kênh Cơ Bản = 64, Gói Kênh Gia Đình = 64] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0912581525:123456 | HIT = [Gói Kênh Cơ Bản = 8, Gói Kênh Gia Đình = 8, Gói Phim bộ VIP = 8, Gói Kênh Quốc Tế = 8, Gói Sport = 8, Gói Youth League = 8] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0917146643:123456 | HIT = [Gói Phim 4K = 360, Gói Kênh Cơ Bản = 87, Gói Kênh Gia Đình = 87, Gói Phim bộ VIP = 87, Gói Kênh Quốc Tế = 87, Gói Sport = 87, Gói Youth League = 87] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0912002855:123456 | HIT = [Gói Kênh Cơ Bản = 105, Gói Kênh Gia Đình = 105] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0918569491:123456 | HIT = [Gói Max = 15] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0913205385:123456 | HIT = [Gói Kênh Cơ Bản = 131, Gói Kênh Gia Đình = 131] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0913359150:123456 | HIT = [Gói Kênh Cơ Bản = 162, Gói Kênh Gia Đình = 162] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0912614844:123456 | HIT = [Gói Max = 15] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0912118710:123456 | HIT = [Gói Max = 16] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0912936609:123456 | HIT = [Gói Max = 16] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0915804083:123456 | HIT = [Gói Kênh Cơ Bản = 35, Gói Kênh Gia Đình = 35] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0912769138:123456 | HIT = [Gói Kênh Cơ Bản = 25, Gói Kênh Gia Đình = 25] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0913879752:123456 | HIT = [Gói Kênh Cơ Bản = 190, Gói Kênh Gia Đình = 190] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0913452735:123456 | HIT = [Gói Max = 15] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0919184692:123456 | HIT = [Gói Max = 15] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0917848260:123456 | HIT = [Gói Kênh Cơ Bản = 164, Gói Kênh Gia Đình = 164] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0918518405:123456 | HIT = [Gói Max = 15] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0915703477:123456 | HIT = [Gói Max = 15] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0919200507:123456 | HIT = [Gói Kênh Cơ Bản = 174, Gói Kênh Gia Đình = 174] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0915773882:123456 | HIT = [Gói Kênh Cơ Bản = 153, Gói Kênh Gia Đình = 153] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0916603385:123456 | HIT = [Gói Kênh Cơ Bản = 157, Gói Kênh Gia Đình = 157] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0918464984:123456 | HIT = [Gói Kênh Cơ Bản = 32, Gói Kênh Gia Đình = 32] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0919378144:123456 | HIT = [Gói Kênh Cơ Bản = 223, Gói Kênh Gia Đình = 223] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0912916551:123456 | HIT = [Gói Kênh Cơ Bản = 120, Gói Kênh Gia Đình = 120] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0911668194:123456 | HIT = [Gói Kênh Cơ Bản = 33, Gói Kênh Gia Đình = 33] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0911758343:123456 | HIT = [Gói Kênh Cơ Bản = 165, Gói Kênh Gia Đình = 165] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0914223223:123456 | HIT = [Gói Kênh Cơ Bản = 26, Gói Kênh Gia Đình = 26] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0912807568:123456 | HIT = [Gói Kênh Cơ Bản = 16, Gói Tắt Quảng Cáo = 16, Gói Kênh Gia Đình = 16, Gói Phim bộ VIP = 16, Gói Kênh Quốc Tế = 16, Gói Đặc Sắc = 16] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0913288467:123456 | HIT = [Gói Kênh Cơ Bản = 24, Gói Kênh Gia Đình = 24, Gói Phim bộ VIP = 24, Gói Kênh Quốc Tế = 24, Gói Sport = 24, Gói Youth League = 24] | current_point = 11880 | current_rank = GOLD | Config By = Quang Hoàng
+0915099780:123456 | HIT = [Gói Kênh Cơ Bản = 160, Gói Kênh Gia Đình = 160] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0918329750:123456 | HIT = [Gói Kênh Cơ Bản = 592, Gói Kênh Gia Đình = 592] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0914401796:123456 | HIT = [Gói VIP = 18, Gói K+ = 21] | current_point = 79530 | current_rank = DIAMOND | Config By = Quang Hoàng
+0919982801:123456 | HIT = [Gói Kênh Cơ Bản = 120, Gói Kênh Gia Đình = 120] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0913740157:123456 | HIT = [Gói Max = 14] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0911486388:123456 | HIT = [Gói Max = 14] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0913462494:123456 | HIT = [Gói Kênh Cơ Bản = 85, Gói Kênh Gia Đình = 85] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0915180947:123456 | HIT = [Gói Max = 15] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0918611128:123456 | HIT = [Gói Kênh Cơ Bản = 68, Gói Kênh Gia Đình = 68] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0918266986:123456 | HIT = [Gói Kênh Cơ Bản = 89, Gói Kênh Gia Đình = 89] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0917080699:123456 | HIT = [Gói Max = 14] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0919365169:123456 | HIT = [Gói Kênh Cơ Bản = 138, Gói Kênh Gia Đình = 138] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0916099908:123456 | HIT = [Gói Kênh Cơ Bản = 91, Gói Kênh Gia Đình = 91] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0911769757:123456 | HIT = [Gói Kênh Cơ Bản = 48, Gói Kênh Gia Đình = 48] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0913212104:123456 | HIT = [Gói Max = 14] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0911759339:123456 | HIT = [Gói Kênh Cơ Bản = 152, Gói Kênh Gia Đình = 152] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0916401207:123456 | HIT = [Gói Kênh Cơ Bản = 88, Gói Tắt Quảng Cáo = 88, Gói Kênh Gia Đình = 88, Gói Phim bộ VIP = 88, Gói Kênh Quốc Tế = 88, Gói Đặc Sắc = 88] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0919005536:123456 | HIT = [Gói Max = 14] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0917075653:123456 | HIT = [Gói Max = 14] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0918957589:123456 | HIT = [Gói Max = 14] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0912500358:123456 | HIT = [Gói Kênh Cơ Bản = 124, Gói Kênh Gia Đình = 124] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0916499724:123456 | HIT = [Gói Kênh Cơ Bản = 86, Gói Kênh Gia Đình = 86] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0912102789:123456 | HIT = [Gói Kênh Cơ Bản = 160, Gói Kênh Gia Đình = 160] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0914616999:123456 | HIT = [Gói VIP = 14] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0917756254:123456 | HIT = [Gói Kênh Cơ Bản = 186, Gói Kênh Gia Đình = 186] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0918158870:123456 | HIT = [Gói Kênh Cơ Bản = 138, Gói Kênh Gia Đình = 138] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0912251976:123456 | HIT = [Gói Kênh Cơ Bản = 100, Gói Kênh Gia Đình = 100] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0915102092:123456 | HIT = [Gói VIP = 38, Gói Kênh Cơ Bản = 503, Gói Tắt Quảng Cáo = 130, Gói Kênh Gia Đình = 503, Gói HBO GO = 38, Gói Phim bộ VIP = 138, Gói Kênh Quốc Tế = 138, Gói Sport = 46, Gói Đặc Sắc = 130, Gói Youth League = 46] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0914063359:123456 | HIT = [Gói Kênh Cơ Bản = 147, Gói Kênh Gia Đình = 147] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0914553286:123456 | HIT = [Gói Max = 15] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0915213502:123456 | HIT = [Gói Kênh Cơ Bản = 79, Gói Kênh Gia Đình = 79] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0918231200:123456 | HIT = [Gói Max = 14] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0918099209:123456 | HIT = [Gói Max = 14] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0911082777:123456 | HIT = [Gói Sport = 67, Gói Youth League = 67] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0919752808:123456 | HIT = [Gói Kênh Cơ Bản = 164, Gói Kênh Gia Đình = 164] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0919066766:123456 | HIT = [Gói Max = 14] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0916746464:123456 | HIT = [Gói Kênh Cơ Bản = 148, Gói Kênh Gia Đình = 148] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0912812829:123456 | HIT = [Gói K+ = 14, Gói Max = 14] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0918560965:123456 | HIT = [Gói Kênh Cơ Bản = 142, Gói Kênh Gia Đình = 142] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0919792698:123456 | HIT = [Gói Kênh Cơ Bản = 92, Gói Kênh Gia Đình = 92] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0911179311:123456 | HIT = [Gói Kênh Cơ Bản = 152, Gói Kênh Gia Đình = 152] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0916600826:123456 | HIT = [Gói Kênh Cơ Bản = 120, Gói Kênh Gia Đình = 120] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0912322063:123456 | HIT = [Gói Kênh Cơ Bản = 165, Gói Kênh Gia Đình = 165] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0914335225:123456 | HIT = [Gói Max = 15] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0917668488:123456 | HIT = [Gói K+ = 210, Gói Max = 16] | current_point = 31500 | current_rank = DIAMOND | Config By = Quang Hoàng
+0917932788:123456 | HIT = [Gói Kênh Cơ Bản = 50, Gói Kênh Gia Đình = 50] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0918827797:123456 | HIT = [Gói Kênh Cơ Bản = 8, Gói Kênh Gia Đình = 8, Gói Phim bộ VIP = 8, Gói Kênh Quốc Tế = 8, Gói Sport = 8, Gói Youth League = 8] | current_point = 5940 | current_rank = SILVER | Config By = Quang Hoàng
+0919195033:123456 | HIT = [Gói VIP = 14] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0915091288:123456 | HIT = [Gói Kênh Cơ Bản = 133, Gói Kênh Gia Đình = 133] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0918088656:123456 | HIT = [Gói Kênh Cơ Bản = 93, Gói Kênh Gia Đình = 93] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0913174569:123456 | HIT = [Gói Kênh Cơ Bản = 11, Gói Kênh Gia Đình = 11] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0916825999:123456 | HIT = [Gói Max = 14] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0918608574:123456 | HIT = [Gói Kênh Cơ Bản = 146, Gói Kênh Gia Đình = 146] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0919977891:123456 | HIT = [Gói VIP = 53, Gói Kênh Cơ Bản = 53, Gói Tắt Quảng Cáo = 53, Gói Kênh Gia Đình = 53, Gói HBO GO = 53, Gói Phim bộ VIP = 53, Gói Kênh Quốc Tế = 53, Gói Sport = 214, Gói Đặc Sắc = 53, Gói Youth League = 214] | current_point = 33840 | current_rank = DIAMOND | Config By = Quang Hoàng
+0916791085:123456 | HIT = [Gói Kênh Cơ Bản = 1, Gói Kênh Gia Đình = 1] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0916061819:123456 | HIT = [Gói Kênh Cơ Bản = 29, Gói Kênh Gia Đình = 29] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0919426333:123456 | HIT = [Gói Max = 15] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0916173399:123456 | HIT = [Gói Max = 14] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0916054314:123456 | HIT = [Gói Kênh Cơ Bản = 138, Gói Kênh Gia Đình = 138] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0915122822:123456 | HIT = [Gói Max = 14] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0916456866:123456 | HIT = [Gói Max = 14] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0919001832:123456 | HIT = [Gói Max = 15] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0917649677:123456 | HIT = [Gói Max = 14] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0914440899:123456 | HIT = [Gói Max = 14] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0919504202:123456 | HIT = [Gói Kênh Cơ Bản = 3, Gói Kênh Gia Đình = 3, Gói Phim bộ VIP = 3, Gói Kênh Quốc Tế = 3, Gói Sport = 3, Gói Youth League = 3] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0913816405:123456 | HIT = [Gói Max = 14] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0918830080:123456 | HIT = [Gói Max = 14] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0912030344:123456 | HIT = [Gói Max = 14] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0912284096:123456 | HIT = [Gói Kênh Cơ Bản = 72, Gói Kênh Gia Đình = 72] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0914126897:123456 | HIT = [Gói Max = 15] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0918983343:123456 | HIT = [Gói Max = 14] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0919524254:123456 | HIT = [Gói Sport = 32, Gói Youth League = 32] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0913923919:123456 | HIT = [Gói Max = 14] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0918998715:123456 | HIT = [Gói Kênh Cơ Bản = 235, Gói Kênh Gia Đình = 235] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0914788002:123456 | HIT = [Gói Kênh Cơ Bản = 165, Gói Kênh Gia Đình = 165] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0918799602:123456 | HIT = [Gói Kênh Cơ Bản = 99, Gói Kênh Gia Đình = 99] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0913441771:123456 | HIT = [Gói Kênh Cơ Bản = 84, Gói Kênh Gia Đình = 84] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0914125508:123456 | HIT = [Gói Max = 15] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0917717809:123456 | HIT = [Gói Max = 16] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0913471748:123456 | HIT = [Gói Max = 14] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0915283629:123456 | HIT = [Gói Max = 15] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0917641446:123456 | HIT = [Gói Kênh Cơ Bản = 123, Gói Kênh Gia Đình = 123] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0912769898:123456 | HIT = [Gói Max = 14] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0912520396:123456 | HIT = [Gói Kênh Cơ Bản = 191, Gói Kênh Gia Đình = 191] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0917878571:123456 | HIT = [Gói Kênh Cơ Bản = 46, Gói Kênh Gia Đình = 46] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0918219669:123456 | HIT = [Gói Max = 14] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0917656756:123456 | HIT = [Gói Kênh Cơ Bản = 119, Gói Kênh Gia Đình = 119] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0911903762:123456 | HIT = [Gói Max = 14] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0919689954:123456 | HIT = [Gói Max = 14] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0916003001:123456 | HIT = [Gói Kênh Cơ Bản = 31, Gói Kênh Gia Đình = 31] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0916044887:123456 | HIT = [Gói Kênh Cơ Bản = 146, Gói Kênh Gia Đình = 146] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0918126455:123456 | HIT = [Gói Kênh Cơ Bản = 51, Gói Kênh Gia Đình = 51] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0914569304:123456 | HIT = [Gói Kênh Cơ Bản = 103, Gói Kênh Gia Đình = 103] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0917359951:123456 | HIT = [Gói Max = 16] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0912533862:123456 | HIT = [Gói Kênh Cơ Bản = 164, Gói Kênh Gia Đình = 164] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0917685389:123456 | HIT = [Gói Kênh Cơ Bản = 28, Gói Kênh Gia Đình = 28, Gói Phim bộ VIP = 28, Gói Kênh Quốc Tế = 28, Gói Sport = 28, Gói Youth League = 28] | current_point = 3960 | current_rank = SILVER | Config By = Quang Hoàng
+0914802919:123456 | HIT = [Gói Max = 14] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0917196498:123456 | HIT = [Gói Max = 16] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0913145906:123456 | HIT = [Gói Kênh Cơ Bản = 133, Gói Kênh Gia Đình = 133] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0919265051:123456 | HIT = [Gói Kênh Cơ Bản = 34, Gói Kênh Gia Đình = 34] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0919638711:123456 | HIT = [Gói Kênh Cơ Bản = 224, Gói Kênh Gia Đình = 224] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0913732462:123456 | HIT = [Gói Kênh Cơ Bản = 165, Gói Kênh Gia Đình = 165] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0917697187:123456 | HIT = [Gói Max = 14] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0918629404:123456 | HIT = [Gói Kênh Cơ Bản = 119, Gói Kênh Gia Đình = 119] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0915665148:123456 | HIT = [Gói Kênh Cơ Bản = 160, Gói Kênh Gia Đình = 160] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0913614195:123456 | HIT = [Gói Max = 14] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0916298572:123456 | HIT = [Gói Kênh Cơ Bản = 61, Gói Kênh Gia Đình = 61] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0913757599:123456 | HIT = [Gói Kênh Cơ Bản = 59, Gói Tắt Quảng Cáo = 59, Gói Kênh Gia Đình = 59, Gói Phim bộ VIP = 59, Gói Kênh Quốc Tế = 59, Gói Đặc Sắc = 59] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0917312885:123456 | HIT = [Gói Max = 14] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0913964398:123456 | HIT = [Gói Kênh Cơ Bản = 26, Gói Kênh Gia Đình = 26, Gói Phim bộ VIP = 26, Gói Kênh Quốc Tế = 26, Gói Sport = 26, Gói Youth League = 26] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0913965436:123456 | HIT = [Gói Kênh Cơ Bản = 520, Gói Kênh Gia Đình = 520] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0913379208:123456 | HIT = [Gói VIP = 99, Gói Kênh Cơ Bản = 382, Gói Tắt Quảng Cáo = 99, Gói Kênh Gia Đình = 382, Gói HBO GO = 99, Gói Phim bộ VIP = 99, Gói Kênh Quốc Tế = 99, Gói Sport = 99, Gói Đặc Sắc = 99, Gói Youth League = 99] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0916393727:123456 | HIT = [Gói Kênh Cơ Bản = 29, Gói Kênh Gia Đình = 29, Gói Phim bộ VIP = 29, Gói Kênh Quốc Tế = 29, Gói Sport = 29, Gói Youth League = 29] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0912660936:123456 | HIT = [Gói Kênh Cơ Bản = 98, Gói Kênh Gia Đình = 98] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0912782628:123456 | HIT = [Gói Kênh Cơ Bản = 117, Gói Kênh Gia Đình = 117] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0912438119:123456 | HIT = [Gói Max = 14] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0913182324:123456 | HIT = [Gói Kênh Cơ Bản = 137, Gói Kênh Gia Đình = 137] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0915303964:123456 | HIT = [Gói Max = 14] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0913638565:123456 | HIT = [Gói Kênh Cơ Bản = 59, Gói Kênh Gia Đình = 59] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0919931119:123456 | HIT = [Gói Kênh Cơ Bản = 127, Gói Kênh Gia Đình = 127] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0919537111:123456 | HIT = [Gói Kênh Cơ Bản = 19, Gói Kênh Gia Đình = 19, Gói Phim bộ VIP = 19, Gói Kênh Quốc Tế = 19, Gói Sport = 19, Gói Youth League = 19] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0912872338:123456 | HIT = [Gói Kênh Cơ Bản = 62, Gói Kênh Gia Đình = 62] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0915109097:123456 | HIT = [Gói Kênh Cơ Bản = 88, Gói Kênh Gia Đình = 88] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0914511110:123456 | HIT = [Gói Max = 14] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0918505348:123456 | HIT = [Gói Max = 14] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0913837925:123456 | HIT = [Gói Max = 14] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0918480030:123456 | HIT = [Gói Kênh Cơ Bản = 166, Gói Kênh Gia Đình = 166] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0915940958:123456 | HIT = [Gói Max = 14] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0916104415:123456 | HIT = [Gói Kênh Cơ Bản = 163, Gói Kênh Gia Đình = 163] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0913158581:123456 | HIT = [Gói Kênh Cơ Bản = 158, Gói Kênh Gia Đình = 158] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0919289828:123456 | HIT = [Gói Kênh Cơ Bản = 76, Gói Kênh Gia Đình = 76] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0912540847:123456 | HIT = [Gói Kênh Cơ Bản = 121, Gói Kênh Gia Đình = 121] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
+0912252575:123456 | HIT = [Gói Kênh Cơ Bản = 29, Gói Tắt Quảng Cáo = 29, Gói Kênh Gia Đình = 29, Gói Phim bộ VIP = 29, Gói Kênh Quốc Tế = 29, Gói Đặc Sắc = 29] | current_point = 0 | current_rank = MEMBER | Config By = Quang Hoàng
